@@ -1,0 +1,10 @@
+/*//General styling*/
+
+body{
+	background-image: url(../images/thanos.jpg)
+}
+div{
+	background-color: white;
+	margin: 15px;
+	width: 25%;
+}
