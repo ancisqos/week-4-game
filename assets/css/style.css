@@ -7,4 +7,32 @@ div{
 	background-color: white;
 	margin: 15px;
 	width: 25%;
+	
+}
+h1{
+	background-color: #D4962B;
+	color: white;
+	font-size: 32pt;
+	text-align: center;
+	font-weight: bold;
+
+}
+.instructions{
+	background-color: papayawhip;
+}
+
+.numberMatch{
+	background-color: #6CF065;
+}
+.winsAndLosses{
+	background-color: #9FFFE7;
+}
+
+div.gems{
+	width: 21.75%;
+}
+div.totalScore{
+	background-color: #47C5FF;
+	color: white;
+	font-size: 14pt;
 }
