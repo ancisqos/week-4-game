@@ -28,8 +28,8 @@
 	$(".numberDisplay").html(number);
 
 	// Displays current guess total
-	$(".guessDisplay").html()
-
+	$(".guessDisplay").html(
+)
 	// Click events for Stones
 	$(".redStone").click(function() {
 		update(red);
@@ -75,7 +75,7 @@
 
 // Function updates total guess score
 	function update(color) {
-
+		
 		guessTotal+=color;
 
 		$(".guessDisplay").empty();
