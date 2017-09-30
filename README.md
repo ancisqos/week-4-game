@@ -12,3 +12,4 @@ You win if you match the random number; you lose if you go over it.
 
 ## Walkthrough
 
+1. Clone the repo to your local computer.
