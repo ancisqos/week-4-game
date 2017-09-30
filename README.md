@@ -1,8 +1,8 @@
 # Infinity Stones Collector
 
-## Introduction
+## Overview
 
-This is an interactive Javascript-based game for web browsers. It utilizes the jQuery library to update the HTML page.
+Infinity Stones Collector is an interactive Javascript-based game for web browsers. It utilizes the jQuery library to update the HTML page.
 
 Four crystals are displayed as buttons on the page. Player will be shown random number at start of the game.
 
