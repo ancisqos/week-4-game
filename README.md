@@ -12,4 +12,14 @@ You win if you match the random number; you lose if you go over it.
 
 ## Walkthrough
 
-1. Clone the repo to your local computer.
+1. Click on this link to access the game https://ancisqos.github.io/week-4-game/
+
+	You will be taken to a page that looks like this:
+
+	<img src="/images/pic1.PNG" alt=sql-1>
+
+2. Click on the crystals and try to match the random number.
+
+	<img src="/images/pic2.PNG" alt=sql-1>
+
+3. The game will restart once you either match the random number (win!) or go over (lose!) 
